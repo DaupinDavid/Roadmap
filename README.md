@@ -28,7 +28,7 @@ Le but de ce premier palier était de coder la logique de base du jeu et de vér
 
 Pour ce prototype, nous mesurons le Retour sur Investissement du temps de développement par rapport à la valeur technique produite :
 
-$$ROI = \frac{Valeur\_du\_Prototype - Coût\_de\_Développement}{Coût\_de\_Développement}$$
+$$ROI = \frac{\text{Valeur du Prototype} - \text{Coût de Développement}}{\text{Coût de Développement}}$$
 
 > **Note :** Ce premier palier valide la viabilité du moteur avant le passage à 1 million de parties (Niveau 2).
 
@@ -40,4 +40,5 @@ $$ROI = \frac{Valeur\_du\_Prototype - Coût\_de\_Développement}{Coût\_de\_Dév
 2. **Clonage :**
    ```bash
    git clone [https://github.com/DaupinDavid/Roadmap.git](https://github.com/DaupinDavid/Roadmap.git)
-3. **Exécution :** ```bash python casino_lvl1.py ```
+   ```
+3. **Exécution :** `bash python casino_lvl1.py `
