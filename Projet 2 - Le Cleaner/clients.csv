@@ -1,0 +1,6 @@
+id,nom,email,ville,date_inscription,montant_depense
+1,Jean Dupont,jean.dupont@email.com,Paris,2022-01-15,150
+2,Marie Curie,marie.curie@science.fr,Lyon,2022-02-20,300
+3,,inconnu@email.com,,2022-03-05,50
+4,Paul Martin,paul.martin@email.com,Marseille,2022-01-10,
+5,Jean Dupont,jean.dupont@email.com,Paris,2022-01-15,150

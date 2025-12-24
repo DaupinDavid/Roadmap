@@ -1,44 +1,42 @@
-# 🎰 Projet Casino : Simulation Monte Carlo
+# 🗺️ L'Atlas : Roadmap Data & Ingénierie de la Décision
 
-Ce projet a pour objectif de vérifier l'équité des jeux de casino et de prouver mathématiquement que "la banque gagne toujours" sur le long terme via des simulations de masse.
-
----
-
-## 📌 Étape actuelle : Niveau 1 - Le Prototype
-
-Le but de ce premier palier était de coder la logique de base du jeu et de vérifier que les règles de gain et de perte fonctionnent correctement sur un petit échantillon.
-
-### 🏗️ Caractéristiques Techniques
-
-- **Langage :** Python 3.
-- **Structure :** Boucle `while` de 10 itérations.
-- **Logique :** Comparaison de deux tirages aléatoires entre 1 et 10.
-- **Gestion du Capital :** Mise à jour en temps réel et détection de la ruine.
-
-### 🚀 Fonctionnalités du Code
-
-- Initialisation d'un capital de départ (100€).
-- Tirage aléatoire sécurisé via la bibliothèque `random`.
-- Affichage détaillé de chaque tour en console pour validation visuelle.
-- Arrêt automatique si le solde atteint 0€ (Risque de Ruine).
+Bienvenue dans mon environnement de développement. Ce dépôt n'est pas une simple collection de scripts, c'est un **accélérateur de valeur** où chaque projet est piloté par le temps, le ROI et la rigueur documentaire [cite: 2025-12-07].
 
 ---
 
-## 📊 Analyse du ROI (Level 1)
+## 📈 Tracker de Valeur (Performance & Réalité)
 
-Pour ce prototype, nous mesurons le Retour sur Investissement du temps de développement par rapport à la valeur technique produite :
+Ce tableau suit l'efficacité de ma production. Il compare mes prévisions à la réalité du terrain (Code + Documentation).
 
-$$ROI = \frac{\text{Valeur du Prototype} - \text{Coût de Développement}}{\text{Coût de Développement}}$$
-
-> **Note :** Ce premier palier valide la viabilité du moteur avant le passage à 1 million de parties (Niveau 2).
+| Projet | Temps Estimé | Temps Réel (Code+Doc) | Écart / Justification | Impact Décisionnel | Statut |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **🎰 Casino Pro** | 1h30 | **2h15** | +45 min (Setup Git/Markdown) | Preuve mathématique de l'avantage banque | `🏗️ Niveau 2` |
+| **🚀 TOTAL** | **1h30** | **2h15** | **Apprentissage flux Git** | **Socle technique sécurisé** | **En marche** |
 
 ---
 
-## 🛠️ Comment lancer le script ?
+## 🏗️ Architecture du Portfolio
 
-1. **Prérequis :** Avoir Python installé sur sa machine.
-2. **Clonage :**
-   ```bash
-   git clone [https://github.com/DaupinDavid/Roadmap.git](https://github.com/DaupinDavid/Roadmap.git)
-   ```
-3. **Exécution :** `bash python casino_lvl1.py `
+Chaque projet suit une progression en trois paliers pour garantir une **accessibilité 100% débutant** tout en atteignant une **complexité industrielle** [cite: 2025-12-07].
+
+### 1. 🎰 Projet Casino (Simulation Monte Carlo)
+Analyse de l'équité des jeux et calcul du "House Edge".
+* **Niveau 1 :** Prototype logique (10 parties) - **[TERMINÉ ✅]**
+* **Niveau 2 :** Industrialisation (1 000 000 parties) - **[EN COURS 🏗️]**
+* **Niveau 3 :** Haute Performance (Multiprocessing) - **[À VENIR ⏳]**
+
+---
+
+## 🛠️ Méthodologie "Elite"
+
+J'applique les standards de l'ingénierie moderne pour chaque brique de code :
+* **Souveraineté Technique :** Maîtrise complète du workflow Git et de l'environnement VS Code [cite: 2025-11-25].
+* **Pilotage par le ROI :** Chaque heure investie doit produire une valeur métier ou une preuve technique.
+* **Documentation S.T.A.R :** Situation, Task, Action, Result pour une clarté totale.
+
+$$ROI_{\text{Atlas}} = \frac{\sum (\text{Valeur technique produite}) - \sum (\text{Temps de Dev})}{\sum (\text{Temps de Dev})}$$
+
+---
+
+## 👤 Contact & Vision
+Ce dépôt est la preuve de ma capacité à transformer des données brutes en outils de décision robustes.
