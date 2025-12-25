@@ -24,12 +24,13 @@ while partie_jouées < 10 :
     # Détermination du gagnant et mise à jour du montant
     if mon_score > score_croupier:
         montant = (montant + 10)
-        print("Félicitations! Tu as gagné!!") 
+        print(f"Félicitations! Tu as gagné 10€! | Score Croupier: {score_croupier} | Ton Score: {mon_score}") 
     elif mon_score == score_croupier:
-        print("Egalité!")
+        montant = (montant - 5)
+        print(f"Egalité. Ici, l'égalité te fais perdre la moitié de ta mise... | Score Croupier: {score_croupier} | Ton Score: {mon_score}")
     else: 
         montant = (montant - 10)
-        print("Dommage! Tu as perdu...")
+        print(f"Dommage... Tu as perdu 10€. | Score Croupier: {score_croupier} | Ton Score: {mon_score}")
     partie_jouées = partie_jouées + 1
     print(f"Tu dispose de {montant}€ ")
 
