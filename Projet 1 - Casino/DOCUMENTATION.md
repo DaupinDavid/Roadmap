@@ -49,8 +49,9 @@
 Pour chaque tour de jeu (tirage 1-10) :
 
 $$
-E = (0.45 \times 10) + (0.10 \times -5) + (0.45 \times -10) = -0,5\€ / \text{tour}
+E = (0.45 \times 10) + (0.10 \times -5) + (0.45 \times -10) = - 0,5 €/\text{tour}
 $$
+
 Interprétation : le joueur perd en moyenne 0,50 € par tour.
 Conclusion : confirme l’avantage structurel du casino et la non-viabilité du jeu à long terme.
 
